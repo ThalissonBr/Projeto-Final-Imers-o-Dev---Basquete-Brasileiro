@@ -19,7 +19,9 @@ Projeto feito com base no conhecimento adquirido no curso Imersão DeV desenvolv
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML: A base de tudo! Usei o HTML para estruturar toda a página, criar os elementos (como botões, textos e imagens) e dar vida à interface.
+  
 - CSS: Com o CSS, dei um toque especial na aparência da aplicação. Deixei tudo bonitinho, com cores e fontes legais, e fiz com que a página se adaptasse a qualquer tela (do celular ao computador).
+  
 - JavaScript: A parte mais divertida! O JavaScript foi o responsável por fazer a mágica acontecer. Criei uma função de pesquisa que busca por informações sobre os atletas em um arquivo JSON (dados.js) e exibe os resultados na tela. 
 
 ## 💻 Projeto
