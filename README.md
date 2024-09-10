@@ -15,7 +15,7 @@ Durante essa aventura, tive a oportunidade de colocar em prática tudo o que apr
 2. **Digite o nome do atleta:** Na barra de pesquisa, digite o nome do atleta que você quer saber mais. 
 3. **Explore os resultados:** A aplicação irá exibir todas as informações que encontrou sobre o atleta, como sua biografia, fotos e links para artigos relacionados.
 
-### Link para acesso da pagina!
+### Link para acessar a página!
 https://projeto-final-imers-o-dev-basquete-brasileiro.vercel.app/
 
 ![tela-principal-projeto](https://github.com/user-attachments/assets/3cd92463-477c-4b19-8d25-78f1d118ecd6)
