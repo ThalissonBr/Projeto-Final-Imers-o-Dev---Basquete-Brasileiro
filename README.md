@@ -11,7 +11,7 @@ Projeto feito com base no conhecimento adquirido no curso Imersão DeV desenvolv
 
 <br>
 
- ![tela-principal-projeto](https://github.com/user-attachments/assets/9fbd772e-04a2-404c-a63d-0b386af30f6d)
+![projeto-basquete](https://github.com/user-attachments/assets/36c6aa48-df8e-453d-bee7-332ebc419dd5)
 
 
 ## 🚀 Tecnologias
