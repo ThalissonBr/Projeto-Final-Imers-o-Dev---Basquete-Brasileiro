@@ -13,9 +13,8 @@ Projeto feito com base no conhecimento adquirido no curso Imersão DeV desenvolv
 
 <br>
 
-<p align="center">
-   ![tela-principal-projeto](https://github.com/user-attachments/assets/9fbd772e-04a2-404c-a63d-0b386af30f6d)
-</p>
+ ![tela-principal-projeto](https://github.com/user-attachments/assets/9fbd772e-04a2-404c-a63d-0b386af30f6d)
+
 
 ## 🚀 Tecnologias
 
